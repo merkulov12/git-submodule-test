@@ -1,0 +1,3 @@
+[submodule "module"]
+	path = module
+	url = /home/merkulov/test/git-submodule-test/module
